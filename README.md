@@ -52,10 +52,7 @@
 
 ---
 
-### 😄 Fun Fact
-> I can switch from debugging code to speaking 3 languages in seconds 😄
 
----
 
 ### 📊 GitHub Stats (Optional)
 <p align="center">
@@ -66,6 +63,6 @@
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/the-sami-ullah-))
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Samiullah03136424477@gmail.com)
 
