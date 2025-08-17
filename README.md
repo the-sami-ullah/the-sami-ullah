@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🎓 I’m a **6th-semester Computer Science student** at a top engineering university in Pakistan  
 - 🧠 Currently diving deep into **AI & Machine Learning**  
-- 🧑‍💻 Solved **150+ problems** on LeetCode  
+- 🧑‍💻 Solved **200+ problems** on LeetCode  
 - 🏆 Ranked **121st / 820+** in Calico Coding Competition  
 - 🌍 Eager to join **international hackathons**  
 - 💬 I speak **Urdu, Punjabi, English**
