@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sami Ullah</h1>
+<img width="924" height="588" alt="image" src="https://github.com/user-attachments/assets/632ba59d-ac02-4c41-bcb6-257a79f50c2e" /><h1 align="center">Hi 👋, I'm Sami Ullah</h1>
 <h3 align="center">A passionate Computer Science student from Pakistan 🇵🇰</h3>
 
 <p align="center">
@@ -8,9 +8,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I’m a **6th-semester Computer Science student** at a top engineering university in Pakistan  
-- 🧠 Currently diving deep into **AI & Machine Learning**  
-- 🧑‍💻 Solved **200+ problems** on LeetCode  
+- 🎓 I’m a **7th-semester Computer Science student** at a top engineering university in Pakistan  
+- 🧠 Currently diving deep into **AI & Machine Learning**
+- 📲 I done **Mern Stack**.
+- 🧑‍💻 Solved **300+ problems** on LeetCode
+- 🧑‍💻 Particpate in **3 intel Coding Competition** and in **Multiple National Competition**
 - 🏆 Ranked **121st / 820+** in Calico Coding Competition  
 - 🌍 Eager to join **international hackathons**  
 - 💬 I speak **Urdu, Punjabi, English**
@@ -47,8 +49,8 @@
 ### 🎯 Goals for 2025
 - 🚀 Master AI/ML concepts  
 - 🧑‍💻 Build & deploy full-stack projects  
-- 🌍 Participate in global hackathons  
-- 📈 Keep growing on LeetCode and GitHub  
+- 🌍 Participate in global hackathons and Coding Competition 
+- 📈 Keep growing on Linkdln , LeetCode and GitHub  
 
 ---
 
