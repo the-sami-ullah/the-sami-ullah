@@ -1,4 +1,4 @@
-<img width="924" height="588" alt="image" src="https://github.com/user-attachments/assets/632ba59d-ac02-4c41-bcb6-257a79f50c2e" /><h1 align="center">Hi 👋, I'm Sami Ullah</h1>
+
 <h3 align="center">A passionate Computer Science student from Pakistan 🇵🇰</h3>
 
 <p align="center">
