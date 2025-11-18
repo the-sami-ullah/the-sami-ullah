@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I’m a **7th-semester Computer Science student** at a top engineering university in Pakistan  
+- 🎓 I’m a **7th-semester Computer Science student** at a Top 1 Engineering University in Pakistan  
 - 🧠 Currently diving deep into **AI & Machine Learning**
 - 📲 I done **Mern Stack**.
 - 🧑‍💻 Solved **300+ problems** on LeetCode
